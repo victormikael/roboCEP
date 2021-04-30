@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/mikael/Downloads/roboCEP/roboCEP/roboCEP.csproj": {}
+  },
+  "projects": {
+    "/home/mikael/Downloads/roboCEP/roboCEP/roboCEP.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/mikael/Downloads/roboCEP/roboCEP/roboCEP.csproj",
+        "projectName": "roboCEP",
+        "projectPath": "/home/mikael/Downloads/roboCEP/roboCEP/roboCEP.csproj",
+        "packagesPath": "/home/mikael/.nuget/packages/",
+        "outputPath": "/home/mikael/Downloads/roboCEP/roboCEP/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/mikael/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ojlis7FXqY1f25N2/YIPmtOp9+8OC/TaOhD6tM7hEwc2wll3dYh0/XsfLXT24L/LioYVcva/N5SGeR/4LwQrBw==",
+  "success": true,
+  "projectFilePath": "/home/mikael/Downloads/roboCEP/roboCEP/roboCEP.csproj",
+  "expectedPackageFiles": [
+    "/home/mikael/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/home/mikael/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
